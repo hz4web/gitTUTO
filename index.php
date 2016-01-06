@@ -9,6 +9,6 @@
         <?php
             echo "It work";
         ?>
-        by
+        bye
     </body>
 </html>
